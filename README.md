@@ -82,10 +82,10 @@ STATUS  : Grinding in silence. Shipping in public.
   <a href="https://github.com/mdmamun116600-bot">
     <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/1492613676467748978">
     <img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=00F0FF" alt="Discord" />
   </a>
-  <a href="mailto:mdmamun116600-bot@users.noreply.github.com">
+  <a href="mailto: mdmamun116600@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
   </a>
 </div>
