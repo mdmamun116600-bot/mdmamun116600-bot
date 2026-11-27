@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" fill="none">
+  <defs>
+    <linearGradient id="hud-footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050505" stop-opacity="0" />
+      <stop offset="15%" stop-color="#00F0FF" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="1" />
+      <stop offset="85%" stop-color="#00F0FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#050505" stop-opacity="0" />
+    </linearGradient>
+    <filter id="footer-glow" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="64" fill="#050505" rx="4" />
+
+  <!-- Angular HUD Bottom Line -->
+  <path d="M 20 18 L 140 18 L 160 32 L 1040 32 L 1060 18 L 1180 18" stroke="url(#hud-footer-line)" stroke-width="2" filter="url(#footer-glow)" />
+
+  <!-- Corner Ticks -->
+  <path d="M 20 10 L 20 50 L 42 50" stroke="#00F0FF" stroke-width="1.5" stroke-opacity="0.7" />
+  <path d="M 1180 10 L 1180 50 L 1158 50" stroke="#00F0FF" stroke-width="1.5" stroke-opacity="0.7" />
+
+  <text x="600" y="52" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" font-weight="700" letter-spacing="3" fill="#64748B">
+    EOF // MAMUN COMMAND CENTER • ZERO NOISE. PURE EXECUTION.
+  </text>
+</svg>
