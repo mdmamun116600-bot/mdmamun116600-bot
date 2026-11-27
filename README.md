@@ -43,39 +43,6 @@ STATUS  : Grinding in silence. Shipping in public.
 
 <br />
 
-### `⚡ SYSTEM TELEMETRY`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmamun116600-bot&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mdmamun116600-bot&show_icons=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&hide_border=false" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmamun116600-bot&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&hide_border=false" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mdmamun116600-bot&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border=00F0FF" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmamun116600-bot&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=false&border_color=00F0FF&custom_title=CONTRIBUTION%20TELEMETRY" alt="Contribution Telemetry" width="96%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mdmamun116600-bot/mdmamun116600-bot/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
-<br />
-
 ### `⚡ ROLEPLAY SERVER`
 
 <div align="center">
