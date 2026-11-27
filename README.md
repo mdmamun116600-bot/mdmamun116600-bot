@@ -12,18 +12,6 @@
 
 <br />
 
-### `root@mamun:~#`
-
-```yaml
-USER    : Mamun
-CLASS   : Backend, Game-Server & Web Developer
-ARSENAL : Pawn (SA-MP / open.mp) | Python | Web | Node.js | MySQL
-MINDSET : "I don't just write code. I build systems that dominate."
-STATUS  : Grinding in silence. Shipping in public.
-```
-
-<br />
-
 ### `⚡ TECH ARSENAL`
 
 <div align="center">
