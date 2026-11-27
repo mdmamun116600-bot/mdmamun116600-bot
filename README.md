@@ -22,6 +22,16 @@
 
 <br />
 
+### `⚡ COMMUNITY SERVER`
+
+<div align="center">
+  <a href="https://discord.gg/V98MA8dr97">
+    <img src="./assets/community-card.svg" width="90%" alt="BLOOD BROTHERS - Click to Join Community" />
+  </a>
+</div>
+
+<br />
+
 ### `⚡ CONNECT`
 
 <div align="center">
