@@ -76,6 +76,16 @@ STATUS  : Grinding in silence. Shipping in public.
 
 <br />
 
+### `⚡ ROLEPLAY SERVER`
+
+<div align="center">
+  <a href="https://discord.gg/BrJYJrKnMu">
+    <img src="./assets/discord-card.svg" width="90%" alt="[omp] Empire Roleplay Bangladesh - Click to Join" />
+  </a>
+</div>
+
+<br />
+
 ### `⚡ CONNECT`
 
 <div align="center">
