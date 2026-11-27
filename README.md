@@ -12,25 +12,6 @@
 
 <br />
 
-### `⚡ TECH ARSENAL`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PAWN-0D1117?style=for-the-badge&logo=gnubash&logoColor=00F0FF" alt="Pawn" />
-  <img src="https://img.shields.io/badge/SA--MP%20%2F%20open.mp-0D1117?style=for-the-badge&logo=gamepad&logoColor=00F0FF" alt="SA-MP / open.mp" />
-  <img src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F0FF" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F0FF" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JavaScript" />
-  <br />
-  <img src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F0FF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=00F0FF" alt="Git" />
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=00F0FF" alt="Linux" />
-</div>
-
-<br />
-
 ### `⚡ ROLEPLAY SERVER`
 
 <div align="center">
